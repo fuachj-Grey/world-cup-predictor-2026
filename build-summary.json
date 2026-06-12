@@ -1,0 +1,48 @@
+{
+  "teams": 48,
+  "fixtures": 72,
+  "players": 1248,
+  "top10": [
+    [
+      "Spain",
+      19.69
+    ],
+    [
+      "France",
+      13.67
+    ],
+    [
+      "Argentina",
+      10.76
+    ],
+    [
+      "Portugal",
+      8.93
+    ],
+    [
+      "England",
+      8.34
+    ],
+    [
+      "Brazil",
+      6.44
+    ],
+    [
+      "Germany",
+      3.4
+    ],
+    [
+      "Netherlands",
+      3.39
+    ],
+    [
+      "Belgium",
+      2.13
+    ],
+    [
+      "Colombia",
+      2.04
+    ]
+  ],
+  "enhanced": true
+}
